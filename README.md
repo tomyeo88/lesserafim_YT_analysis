@@ -1,2 +1,2 @@
-# lesserafim_YT_analysis
+# lesserafim_yt_analysis
 Analyzing LESERRAFIM YouTube channel
